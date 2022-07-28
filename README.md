@@ -1,4 +1,4 @@
-<p align="left">Hi👋</p>  <p>  I am Yunus Emre Orbay. I am a software engineering 2nd year student and I am currently learning and writing React. I also want to learn React Native and .Net</p>
+<p align="left">Hi👋</p>  <p>  I am Yunus Emre Orbay. I am a software engineering 2nd year student and I am currently learning and writing React. I also want to learn React Native and ASP.Net</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yunus-emre-orbay-82081220a/" target="_blank">
