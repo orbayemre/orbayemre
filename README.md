@@ -1,4 +1,4 @@
-<p align="left">Hi👋</p>  <p>  I am Yunus Emre Orbay. I am a software engineer. I am currently writing NodeJS and React.</p>
+<p align="left">Hi👋</p>  <p>  I am Yunus Emre Orbay. I am a software engineer. I am currently learning Docker and writing NodeJS and React.</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yunus-emre-orbay-82081220a/" target="_blank">
